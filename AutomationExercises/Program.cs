@@ -45,7 +45,7 @@ namespace AutomationExercises
                 return true;*/
 
             driver.PageSource.Contains(CommentText);
-            //driver.Quit();
+            driver.Quit();
         }
 
     }
