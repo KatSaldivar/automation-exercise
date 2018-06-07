@@ -1,0 +1,14 @@
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\obj\Debug\AutomationExercises.csprojResolveAssemblyReference.cache
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\obj\Debug\AutomationExercises.csproj.CoreCompileInputs.cache
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\AutomationExercises.exe.config
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\AutomationExercises.exe
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\AutomationExercises.pdb
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\WebDriver.dll
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\WebDriver.Support.dll
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\WebDriver.xml
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\WebDriver.Support.xml
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\obj\Debug\AutomationExercises.exe
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\obj\Debug\AutomationExercises.pdb
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\nunit.framework.dll
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\nunit.framework.pdb
+C:\Users\Katie\Documents\selenium\AutomationExercises\AutomationExercises\bin\Debug\nunit.framework.xml
